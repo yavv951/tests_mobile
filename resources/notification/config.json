@@ -1,7 +1,7 @@
 {
     "base": {
         "project": "qaguru python browserstack",
-        "environment": "prod",
+        "environment": "Prod",
         "comment": "",
         "reportLink": "https://jenkins.autotests.cloud/job/tests_mobile_browserstack/",
         "language": "en",
