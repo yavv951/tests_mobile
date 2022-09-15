@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46ad48f1-51a0-47b2-a285-f3745e10bf1a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/notification/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/notification/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_wiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_wiki.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

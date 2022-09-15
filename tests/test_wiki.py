@@ -9,7 +9,7 @@ from util.attachment import add_video
 
 @allure.tag('mobile')
 @allure.title('Test search')
-def test_wiki_muse_band(app_android):
+def test_wiki_browserstack(app_android):
     with step('Type search'):
         browser.element((AppiumBy.ACCESSIBILITY_ID, 'Search Wikipedia')).click()
         browser.element((AppiumBy.ID, "org.wikipedia.alpha:id/search_src_text")).type('BrowserStack')
