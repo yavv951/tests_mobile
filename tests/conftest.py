@@ -37,7 +37,7 @@ def app_android():
         }
     }
     browser.config.driver = webdriver.Remote(
-        command_executor=f"https://{USER}:{KEY}@{APPIUM_BROWSERSTACK}/wd/hub",
+        command_executor=f"https://{USER}:{KEY}@hub-cloud.browserstack.com/wd/hub",
         desired_capabilities=desired_cap
     )
     browser.config.timeout = 4
